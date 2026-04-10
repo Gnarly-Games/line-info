@@ -9,7 +9,7 @@ Add the following entry to your Unity `Packages/manifest.json` file:
 ```json
 {
   "dependencies": {
-    "com.gnarlygames.line-info": "https://github.com/Gnarly-Games/cartel-warfare.git?path=/Packages/com.gnarlygames.line-info#main"
+    "line-info": "https://github.com/Gnarly-Games/line-info#main"
   }
 }
 ```
