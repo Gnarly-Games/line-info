@@ -9,7 +9,7 @@ Add the following entry to your Unity `Packages/manifest.json` file:
 ```json
 {
   "dependencies": {
-    "line-info": "https://github.com/Gnarly-Games/line-info.git#v1.0.0"
+    "line-info": "https://github.com/Gnarly-Games/line-info.git#v1.1.0"
   }
 }
 ```
