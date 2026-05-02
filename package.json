@@ -1,6 +1,6 @@
 {
   "name": "com.gnarlygamestudio.line-info",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "displayName": "Line Info",
   "description": "A lightweight UI notification package with ready-to-use LineInfo prefabs.",
   "unity": "6000.0",

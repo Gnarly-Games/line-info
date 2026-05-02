@@ -1,4 +1,3 @@
-using Gnarly.LineInfo;
 using UnityEngine;
 
 namespace Gnarly.LineInfo
@@ -31,7 +30,7 @@ namespace Gnarly.LineInfo
             }
         }
 
-        public static void Show(string message, float duration = 1f)
+        public static void Show(string message)
         {
             if (_instance == null)
             {
@@ -47,7 +46,7 @@ namespace Gnarly.LineInfo
 
             var parentTransform = _instance.parent != null ? _instance.parent : _instance.transform;
             var info = Instantiate(_instance.prefab, parentTransform);
-            info.Init(message, duration);
+            info.Init(message);
         }
     }
 }
