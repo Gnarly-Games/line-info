@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 3520913192208626435}
   - component: {fileID: 3793666411942311361}
   - component: {fileID: 6229478609297498348}
-  - component: {fileID: 96253728506904061}
+  - component: {fileID: 741325814343578004}
   m_Layer: 5
   m_Name: LineInfoManager
   m_TagString: Untagged
@@ -85,7 +85,7 @@ MonoBehaviour:
   m_DefaultSpriteDPI: 96
   m_DynamicPixelsPerUnit: 1
   m_PresetInfoIsWorld: 0
---- !u!114 &96253728506904061
+--- !u!114 &741325814343578004
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -94,10 +94,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 1107377791590595550}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ea4bacebcb11c48afb078381574b6164, type: 3}
+  m_Script: {fileID: 11500000, guid: 39443bb7c943a4334b8d075f3e0b0a7a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  prefab: {fileID: 2669659565442208576, guid: 23cfee82bfe91460b8446050f1e457df, type: 3}
+  prefab: {fileID: 5523700647149338936, guid: cf0fac9e011cd4e0593c325e7d5a8721, type: 3}
   parent: {fileID: 6805489130873499519}
 --- !u!1 &6645573682540629094
 GameObject:
